@@ -7,3 +7,5 @@ document.addEventListener('DOMContentLoaded', function () {
 document.querySelector('.custom-toggler').addEventListener('click', function () {
     this.classList.toggle('active');
 });
+
+
